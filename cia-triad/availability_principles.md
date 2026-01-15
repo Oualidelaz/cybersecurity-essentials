@@ -1,22 +1,17 @@
 ### Availability
 
 ```d
-Goal: Understand what AVAILABILITY means → ensure systems and data are accessible when needed
-        │
         └──▶ STEP 0 – CORE DEFINITION
                      │
                      ├── Meaning
-                     │       • Availability is the principle of ensuring
-                     │         authorized users
-                     │         can access systems, services, and data when
-                     │         required.
+                     │       • Availability is the principle of ensuring authorized users
+                     │         can access systems, services, and data when required.
                      │
                      ├── Focus
                      │       • Prevent downtime and service disruption
                      │
                      └── Outcome
-                     │       • Resources remain usable within acceptable time
-                     │         limits
+                             • Resources remain usable within acceptable time limits
                      │
         └──▶ STEP 1 – WHAT AVAILABILITY PROTECTS
                      │
@@ -31,7 +26,7 @@ Goal: Understand what AVAILABILITY means → ensure systems and data are accessi
                      │       • Scheduled access windows
                      │
                      └── Key Point
-                     │       • Access must be reliable, not just possible
+                             • Access must be reliable, not just possible
                      │
         └──▶ STEP 2 – THREATS TO AVAILABILITY
                      │
@@ -45,7 +40,7 @@ Goal: Understand what AVAILABILITY means → ensure systems and data are accessi
                      │       • Misconfiguration
                      │
                      └── Logical Conclusion
-                     │       • If users cannot access a resource, availability is                       │         broken
+                             • If users cannot access a resource, availability is broken
                      │
         └──▶ STEP 3 – AVAILABILITY CONTROLS
                      │
@@ -60,16 +55,15 @@ Goal: Understand what AVAILABILITY means → ensure systems and data are accessi
                      │       • Disaster recovery plans
                      │
                      └── Note
-                     │       • With redundancy and planning, it is possible                             │         to reduce downtime
+                             • With redundancy and planning, it is possible to reduce downtime
                      │
         └──▶ STEP 4 – AVAILABILITY IN PRACTICE
                      │
-                     ├── Example of a redundancy control
-                     │       • If one server fails, traffic is redirected to                            │         another
-                     │
+                     ├── Example of a Redundancy Control
+                     │       • If one server fails, traffic is redirected to another
                      │
                      └── Result
-                     │       • Service continues with minimal interruption
+                             • Service continues with minimal interruption
                      │
         └──▶ FINAL STATE – AVAILABILITY MAINTAINED
                      │
@@ -79,7 +73,8 @@ Goal: Understand what AVAILABILITY means → ensure systems and data are accessi
                      │       • Tested recovery procedures
                      │
                      └── Security Principle
-                             • Availability ensures systems and data remain                                       accessible to authorized users when needed
+                             • Availability ensures systems and data remain accessible
+                               to authorized users when needed
 ```
 
 ![How to improve the availability?](../assets/availability.png)
