@@ -82,4 +82,4 @@ Goal: Understand what AVAILABILITY means → ensure systems and data are accessi
                              • Availability ensures systems and data remain                                       accessible to authorized users when needed
 ```
 
-![How to improve the availability?](../assets/ChatGPT Image 14 janv. 2026, 12_51_03.png)
+![How to improve the availability?](/assets/ChatGPT Image 14 janv. 2026, 12_51_03.png)
