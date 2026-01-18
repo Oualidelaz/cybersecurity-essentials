@@ -1,1 +1,1 @@
-![cyber security essentials](../assets/seec-ess.png)
+![cyber security essentials](../assets/sec-ess.png)
