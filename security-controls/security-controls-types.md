@@ -14,3 +14,4 @@ Security Control Types
                                      • Detective
                                      • Corrective
 ```
+![](../assets/s-c-t-1.png)
